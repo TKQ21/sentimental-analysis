@@ -19,7 +19,8 @@ Provide downloadable analytics reports
 
 The system processes thousands of reviews and provides both real-time predictions and bulk dataset analysis.
 
-**URL**:  (https://sparkle-sentiment.lovable.app)
+**URL**:  https://sentimental-iq.lovable.app
+(https://sparkle-sentiment.lovable.app)
 
 🔥 Key Features
 ✅ Real-Time Sentiment Prediction
